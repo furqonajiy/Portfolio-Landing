@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div>
       <h1>furqonajiy</h1>
     </div>
-  );
+  )
 }
 
 export default App;
