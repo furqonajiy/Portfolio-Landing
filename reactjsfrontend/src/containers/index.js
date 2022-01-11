@@ -1,6 +1,6 @@
-export { default as Blog } from './blog/Blog';
-export { default as Features } from './features/Features';
+export { default as AboutMe } from './about-me/AboutMe';
+export { default as Achievement } from './achievement/Achievement';
+export { default as Experience } from './experience/Experience';
 export { default as Footer } from './footer/Footer';
 export { default as Header } from './header/Header';
-export { default as Possibility } from './possibility/Possibility';
-export { default as WhoFurqonajiy } from './whoFurqonajiy/WhoFurqonajiy';
+export { default as Project } from './project/Project';
